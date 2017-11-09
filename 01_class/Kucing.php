@@ -5,7 +5,7 @@ class Kucing extends IbuKucing {
 
      // public = Bisa diakses oleh siapa saja
     // protected = Hanya bisa diakses oleh class itu
-    //            sama class anaknya
+    //             sama class anaknya
     // private = hanya bisa diakses oleh kelas itu sendiri
 
     private $istriKucing;
